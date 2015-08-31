@@ -1,6 +1,7 @@
 # pull-request-templates
 
 > Using [electron-react-boilerplate](https://github.com/chentsulin/electron-react-boilerplate).
+
 > 詳細→ [electron-react-boilerplateでコストを掛けず綺麗なアプリケーションをつくる - Qiita](http://qiita.com/okmttdhr/items/ee8489753673cb124be1)
 
 ## Structure
